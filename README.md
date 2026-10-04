@@ -11,7 +11,7 @@ Paste a suspicious message and get a risk score, the manipulation tactics highli
 ## 📸 Screenshots
 
 ![Home]("C:\Users\rahul\OneDrive\Pictures\Screenshots")
-![Result]("C:\Users\rahul\OneDrive\Pictures\Screenshots\Screenshot 2026-10-04 125401.png")
+![Result]("C:\Users\rahul\OneDrive\Pictures\Screenshots")
 
 ## ❗ The Problem
 
