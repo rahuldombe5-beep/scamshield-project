@@ -5,8 +5,8 @@ Paste a suspicious message and get a risk score, the manipulation tactics highli
 
 > **Track:** Digital Safety & Cybersecurity
 
-**🔗 Live Demo:** <your GitHub Pages / Netlify link>
-**🎥 Demo Video:** <your Google Drive link>
+**🔗 Live Demo:** https://rahuldombe5-beep.github.io/scamshield-project/
+**🎥 Demo Video:** https://drive.google.com/file/d/1QxMihWHszlhJ9jmUfcYJWUbh5zmpdFiQ/view?usp=sharing
 
 ## 📸 Screenshots
 
