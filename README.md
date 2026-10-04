@@ -10,8 +10,8 @@ Paste a suspicious message and get a risk score, the manipulation tactics highli
 
 ## 📸 Screenshots
 
-![Home](""C:\Users\rahul\OneDrive\Pictures\Screenshots\Screenshot 2026-10-04 125614.png"")
-![Result]("C:\Users\rahul\OneDrive\Pictures\Screenshots")
+![Home]("Screenshot%202026-10-04%20125401.png")
+![Result]("Screenshot%202026-10-04%20125401.png")
 
 ## ❗ The Problem
 
