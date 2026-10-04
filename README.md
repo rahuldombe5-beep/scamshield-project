@@ -10,7 +10,7 @@ Paste a suspicious message and get a risk score, the manipulation tactics highli
 
 ## 📸 Screenshots
 
-![Home]("Screenshot%202026-10-04%20125401.png")
+![Home]("Screenshot%202026-10-04%20125614.png")
 ![Result]("Screenshot%202026-10-04%20125401.png")
 
 ## ❗ The Problem
