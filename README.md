@@ -60,8 +60,8 @@ HTML5, CSS3 (light and dark themes) and vanilla JavaScript. No frameworks, no ba
 ## 🚀 Run Locally
 
 ```bash
-git clone [https://github.com/<your-username>/scamshield.git](https://github.com/rahuldombe5-beep/scamshield-project/edit/main/README.md)
-cd scamshield
+git clone https://github.com/rahuldombe5-beep/scamshield-project.git
+cd scamshield-project
 # open index.html in your browser
 ```
 
